@@ -7,7 +7,7 @@ function findSum(numbers) {
     return numbers.reduce((sum, current) => sum + current, 0);
 }
 
-// Example usage
+
 const numbersToSum = [1, 2, 3, 4, 5];
 const result = findSum(numbersToSum);
 
