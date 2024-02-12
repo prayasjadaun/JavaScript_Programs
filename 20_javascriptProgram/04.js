@@ -6,7 +6,7 @@ function celsiusToFahrenheit(celsius) {
 }
 
 
-const celsiusTemperature = 25;
+const celsiusTemperature = 20;
 const fahrenheitTemperature = celsiusToFahrenheit(celsiusTemperature);
 
 console.log(`${celsiusTemperature}°C is equal to ${fahrenheitTemperature}°F`);
